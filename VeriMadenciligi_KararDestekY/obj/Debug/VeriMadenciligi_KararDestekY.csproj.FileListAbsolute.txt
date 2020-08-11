@@ -1,0 +1,9 @@
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\bin\Debug\VeriMadenciligi_KararDestekY.exe.config
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\bin\Debug\VeriMadenciligi_KararDestekY.exe
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\bin\Debug\VeriMadenciligi_KararDestekY.pdb
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\obj\Debug\VeriMadenciligi_KararDestekY.Form1.resources
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\obj\Debug\VeriMadenciligi_KararDestekY.Properties.Resources.resources
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\obj\Debug\VeriMadenciligi_KararDestekY.csproj.GenerateResource.cache
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\obj\Debug\VeriMadenciligi_KararDestekY.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\obj\Debug\VeriMadenciligi_KararDestekY.exe
+D:\Visual Studio projects\source\repos\VeriMadenciligi_KararDestekY\obj\Debug\VeriMadenciligi_KararDestekY.pdb
